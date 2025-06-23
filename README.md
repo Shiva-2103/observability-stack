@@ -1,6 +1,6 @@
 # Observability Stack Documentation
 
----
+--- 
 
 ### 📌 Overview:
 

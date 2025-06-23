@@ -1,4 +1,4 @@
-**📘 Observability Stack Documentation**
+# Observability Stack Documentation
 
 ---
 
